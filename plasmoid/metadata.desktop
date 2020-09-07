@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tutorial
+Comment=Tutorial on getting started with Plasma 5 plasmoids.
+Type=Service
+
+X-KDE-Library=plasma_applet_tutorial
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Heena
+X-KDE-PluginInfo-Email=heena393@gmail.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=io.gmp.kde.boosttrack
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=kde.gmp.io
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Category=Windows and Tasks
